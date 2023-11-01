@@ -7,7 +7,7 @@ a. Compare the ssales and orers using single chart?
 b. Which month got the highest sales and orders?
 c. Who purchasedmore-men or women in 2022?
 d. What are different order status in 2022?
-e. List top 4 states contributing to the sales?
+e. List top 5 states contributing to the sales?
 f. Relation between age and gender based on number of orders?
 g. Which channel is contributing to maximum sales?
 h. Highest selling category?
